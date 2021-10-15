@@ -52,6 +52,7 @@ body{
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXAYuXcQi-fRJw63ipczBbmeAbQubAQohRlA&usqp=CAU");  
     background-repeat: no-repeat;
     background-size: cover;
+    height: 100%;
     text-align: center;
     color: rgb(19, 16, 53);
      border-style: solid;
